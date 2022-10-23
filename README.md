@@ -22,3 +22,10 @@ Pandas Series is the equivalent of a column of data. In this section we will cov
 Pandas series are really just numpy arrays with additional features layered into them to make them easier to work with.
 
 - To access my Pandas Series notebook: [Click here!](https://github.com/andreareosa/NumPy-Pandas-Masterclass/blob/main/Pandas%20Series%20Masterclass.ipynb)
+
+
+### 2 - Pandas DataFranes
+
+Pandas DataFranes is the Python equivalent of an Excel or SQL table which we'll use to store and analyze data. They are a tabular data structure, made up from columns and rows.
+
+- To access my Pandas DataFranes notebook: [Click here!](https://github.com/andreareosa/NumPy-Pandas-Masterclass/blob/main/Pandas%20Dataframes%20Masterclass.ipynb)
